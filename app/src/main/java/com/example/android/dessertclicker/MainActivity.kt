@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        dessertTimer = DessertTimer()
+        dessertTimer = DessertTimer(this.lifecycle)
 
         // Use Data Binding to get reference to the views
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
@@ -152,7 +152,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        dessertTimer.startTimer()
         Timber.i("onStart Called")
     }
     override fun onResume() {
@@ -165,7 +164,6 @@ class MainActivity : AppCompatActivity() {
     }
     override fun onStop() {
         super.onStop()
-        dessertTimer.startTimer()
         Timber.i("onStop called")
     }
     override fun onDestroy() {
