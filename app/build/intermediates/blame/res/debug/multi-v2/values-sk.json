@@ -4,7 +4,7 @@
             "outputFile": "/Users/gunsoradanai/Downloads/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/3f4ae065ee31123b41c261c10f189923/appcompat-1.0.0/res/values-sk/values-sk.xml",
+                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/78250c143c7a564b43317b6893b2e24c/appcompat-1.0.0/res/values-sk/values-sk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/45a69bab8db1875a48488dcfd567eca0/core-1.0.0/res/values-sk/values-sk.xml",
+                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/res/values-sk/values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

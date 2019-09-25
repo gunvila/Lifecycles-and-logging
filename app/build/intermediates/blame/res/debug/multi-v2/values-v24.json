@@ -4,7 +4,7 @@
             "outputFile": "/Users/gunsoradanai/Downloads/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/3f4ae065ee31123b41c261c10f189923/appcompat-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/gunsoradanai/.gradle/caches/transforms-2/files-2.1/78250c143c7a564b43317b6893b2e24c/appcompat-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
